@@ -8,5 +8,4 @@
 
 <h2>Dataset</h2>
 
-<p>You can find all the datasets used in this project here -> <a href="https://github.com/akash-r34/CalCheck/tree/main/Dataset">Datasets</a></p>
-
+<p>You can find all the datasets used in this project here -> <a href="https://github.com/Adinarayana11/FitSmart/tree/main/Dataset">Datasets</a></p>
